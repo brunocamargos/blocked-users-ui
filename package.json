@@ -1,0 +1,19 @@
+{
+  "name": "blocked-users-ui",
+  "version": "1.0.0",
+  "description": "A simple UI to manage blocked users (blacklist)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunocamargos/blocked-users-ui.git"
+  },
+  "author": "Bruno Camargos <bruno.camargos@gmail.com> (https://github.com/brunocamargos)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brunocamargos/blocked-users-ui/issues"
+  },
+  "homepage": "https://github.com/brunocamargos/blocked-users-ui#readme"
+}
